@@ -3,7 +3,8 @@
 - [English Version](README.md)
 - [在线演示](https://neox-t4-ai-agent.vercel.app)
 - [Loom 视频演示](https://www.loom.com/share/f43bcbf9a8cb4dc1ab7b4bb1766f3abf)
-- [已部署合约](https://neoxt4scan.ngd.network/address/0x13bfc968390bf38a9dc1528dc11015f084a71d96)
+- [已部署neoxT4测试网合约](https://neoxt4scan.ngd.network/address/0x13bfc968390bf38a9dc1528dc11015f084a71d96)
+- [已部署neox 主网合约](https://xexplorer.neo.org/address/0x540afE80B9160690A1dA857c8ccE2188fEa6c2A0)
 
 ## 这是什么？
 
