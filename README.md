@@ -3,8 +3,7 @@
 - [中文版](README-zh.md)
 - [online demo](https://neox-t4-ai-agent.vercel.app)
 - [Loom Video Demo](https://www.loom.com/share/f43bcbf9a8cb4dc1ab7b4bb1766f3abf)
-- [contract deployed on NeoX T4](https://neoxt4scan.ngd.network/address/0x13bfc968390bf38a9dc1528dc11015f084a71d96)
-- [contract deployed on NeoX Mainnet](https://xexplorer.neo.org/address/0x540afE80B9160690A1dA857c8ccE2188fEa6c2A0)
+
 
 ## What is this?
 
